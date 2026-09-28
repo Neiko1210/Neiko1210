@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolas Carballo</h1>
-<h3 align="center">A passionate full stack developer from Argentina, who loves tech, music and sports. I met programming 1 year and 6 months ago. Then, i started a full stack developer certification, which i achieved a couple of weeks ago. I consider myself a person who loves new challenges and likes to work with other people and learn from them. Welcome to my profile!</h3>
+<h3 align="center">A passionate full stack developer from Argentina, who loves music and sports. I met programming 2 years ago. I have a full stack title but i love backend.</h3>
 
 - 💬 Ask me about **React, node.js, express, postgreSQL, Sequelize, Redux, HTML, CSS, Javascript, Tailwind, Bootstrap**
 

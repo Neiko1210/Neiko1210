@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas Carballo</h1>
-<h3 align="center">A passionate full stack developer from Argentina, who loves music and sports. I met programming 2 years ago. I have a full stack title but i love backend.</h3>
+<h3 align="center">A passionate BACKEND developer from Argentina. I met programming 2 years ago.</h3>
 
-- 💬 Ask me about **React, node.js, express, postgreSQL, Sequelize, Redux, HTML, CSS, Javascript, Tailwind, Bootstrap**
+- 💬 Ask me about **React, node.js, express, postgreSQL, Sequelize, Redux, C#, .NET**
 
 - 📫 How to reach me **nico.gye33@gmail.com**
 
